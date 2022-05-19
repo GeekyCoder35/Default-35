@@ -1,0 +1,28 @@
+{
+	"emps":[
+		{
+			"empid": 100,
+			"empName": "Soumya",
+			"empDept": "FS",
+			"id":1
+		},
+		{
+			"empid": 101,
+			"empName": "Sita",
+			"empDept": "IT",
+			"id":2
+		},
+		{
+			"empid": 102,
+			"empName": "Reema",
+			"empDept": "Marketing",
+			"id":3
+		},
+		{
+			"empid": 103,
+			"empName": "Sanket",
+			"empDept": "Sales",
+			"id":4
+		}
+	]
+}
